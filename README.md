@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tiesya Andriani Ramadhanti</h1>
 <h3 align="center">I am a second year student majoring in informatics engineering at Bengkulu University. I always want to increase my knowledge in the field of informatics, especially in the fields of UI/UX design, web programming , and fronted development.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiesya234" alt="tiesya234" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tiesya234&label=Profile%20views&color=0e75b6&style=flat" alt="tiesya234" /> </p>
 
 - 🌱 I’m currently learning about **Web Programming, it encompasses a variety of technologies, languages, and tools to build and deploy dynamic and interactive websites.**
 
